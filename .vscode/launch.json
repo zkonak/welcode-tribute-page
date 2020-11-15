@@ -9,7 +9,7 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open tribute.html",
+            "name": "Open index.html",
             "file": "/Users/zelihakonak/Desktop/zeliha_formation/formation-technique/projets/welcode-tribute-page/index.html"
         }
     ]
